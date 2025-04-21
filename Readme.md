@@ -41,7 +41,6 @@ A simple profile card showing name, avatar, location, and bio.
 
 > React Components to create:
 - `UserProfileCard`
-- Optional: `Avatar`, `UserInfo`, `LocationTag`
 
 ---
 
@@ -56,7 +55,6 @@ This page shows seats in a movie theatre, divided by pricing categories. Occupie
 - `TheatreLayout`
 - `SeatRow`
 - `Seat`
-- Optional: `CategoryLegend`, `BookingSummary`
 - Represent each category and seat with props
 ---
 
