@@ -57,11 +57,7 @@ This page shows seats in a movie theatre, divided by pricing categories. Occupie
 - `SeatRow`
 - `Seat`
 - Optional: `CategoryLegend`, `BookingSummary`
-
-> Bonus:
-- Use state to track selected seats
 - Represent each category and seat with props
-
 ---
 
 ### 3. 📋 Task Management Dashboard
@@ -111,15 +107,13 @@ react-ui-challenges/
 ├── README.md
 └── /screenshots
 ```
-
 ---
 
 ## 🔚 Deliverables
 
 - A React project for each UI with cleanly separated components
-- Screenshots or screen recordings of your final results
+- Screenshots of your final results
 - A README inside each React app explaining your approach (optional but recommended)
-
 ---
 
 Happy coding! 🚀
